@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yongzan Liu"
-  avatar           : "yongzan.jpg"
+  avatar           : "Yongzan.jpg"
   bio              : "Ph.D. Candidate, Department of Petroleum Engineering, Texas A&M Univeristy"
   location         : "College Station, Texas"
   employer         :
@@ -106,7 +106,7 @@ author:
   soundcloud       :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
