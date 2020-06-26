@@ -17,3 +17,19 @@ LF-DAS signals, develop inversion algorithms for quantitative hydraulic-fracture
   <br>
   <em> A numerical simulation example: strain-rate waterfall plot</em>
 </p>
+
+## Development and Applications of Coupled Multiphase Flow and Geomechanics Models for Fractured Unconventional Reservoirs
+
+Unconventional tight reservoirs, which have contributed significantly to the global hydrocarbon production, are typically characterized by low permeability and low porosity. Although hydraulic fracturing along with horizontal well drilling enables
+economic development of such reservoirs, the production rate often declines sharply and results in low primary hydrocarbon recovery. Multiphase flow in fractured porous media is a multi-physics coupled process. To better understand the mechanisms 
+controlling the well performance and improve the hydrocarbon recovery, comprehensive numerical models are needed. In this project, we develop coupled flow and geomechanics models, especially for fractured unconventional reservoirs. The models have been
+applied in evaluating the efficiency and feasibility of injection-type EOR methods and predicting depletion-induced stress evolution.
+
+### Feasibility and Efficiency of Inter-Fracture Water Injection to Enhance Oil Recovery in Tight Reservoirs
+This study investigated the feasibility and efficiency of an innovative fluid injection scheme proposed by [Dombrowski et al. 2015](https://patents.google.com/patent/US20130228337) for enhancing tight oil recovery.
+
+<p align="center">
+  <img src="../images/FluidInjection.tif" />
+  <br>
+  <em> Water saturation distribution after inter-fracture water injection under lower rate (left) and higher rate (right)</em>
+</p>
