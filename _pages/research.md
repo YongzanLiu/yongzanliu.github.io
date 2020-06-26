@@ -14,4 +14,6 @@ LF-DAS signals, develop inversion algorithms for quantitative hydraulic-fracture
 
 <p align="center">
   <img src="../images/waterfall_plot.jpg" />
+  <br>
+  <em> A numerical simulation example: strain-rate waterfall plot</em>
 </p>
