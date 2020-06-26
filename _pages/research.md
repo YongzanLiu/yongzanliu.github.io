@@ -12,4 +12,6 @@ A better understanding of stimulated fracture geometry is critical for improving
 which is a direct in-situ measurement of fracture-induced rock deformation, is a promising attribute for fracture-hit detection and hydraulic-fracture characterization. In this project, we conduct fundamental research on the mechanisms for 
 LF-DAS signals, develop inversion algorithms for quantitative hydraulic-fracture geometry characterization, and propose practical workflows for field applications.
 
-![](../images/waterfall_plot.jpg) 
+<p align="center">
+  <img src="../images/waterfall_plot.jpg" />
+</p>
