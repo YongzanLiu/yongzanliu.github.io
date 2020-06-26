@@ -42,3 +42,12 @@ This study investigated the stress distributions in a depleted shale-gas reservo
   <br>
   <em> pressure and stresses distribution in a naturally fractured shale-gas reservoir after 1500 days depletion</em>
 </p>
+
+
+## Fracturing Fluid Distribution and In-Situ Distribution in Unconventional Reservoirs
+During hydraulic fracturing treatments, a large amount of fracturing fluid is injected into the tight subsurface formation. However, only a small portion of injected fluid can be recovered during the flowback process.
+
+
+
+
+
