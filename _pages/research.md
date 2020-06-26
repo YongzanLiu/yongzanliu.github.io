@@ -34,7 +34,7 @@ This study investigated the feasibility and efficiency of an innovative fluid in
   <em> Water saturation distribution after inter-fracture water injection under lower rate (left) and higher rate (right)</em>
 </p>
 
-## Depletion-Induced Stress Re-Distribution in Shale-Gas Reservoirs
+### Depletion-Induced Stress Re-Distribution in Shale-Gas Reservoirs
 This study investigated the stress distributions in a depleted shale-gas reservoir under various in-situ conditions, which is essential for the design and optimization of re-fracturing and infill-well drilling.
 
 <p align="center">
