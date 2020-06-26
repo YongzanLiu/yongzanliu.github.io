@@ -57,7 +57,7 @@ flow and geomechanical simulations. Finally, two real-field exampled are used to
 
 
 <p align="center">
-  <img src="../images/fluid_distribution.tif" />
+  <img src="../images/fluid_distribution.png" />
   <br>
   <em> fracturing fluid distribution around intersecting hydraulic fractures at the end of 3 days shut-in</em>
 </p>
