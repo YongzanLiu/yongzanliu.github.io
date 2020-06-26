@@ -45,9 +45,22 @@ This study investigated the stress distributions in a depleted shale-gas reservo
 
 
 ## Fracturing Fluid Distribution and In-Situ Distribution in Unconventional Reservoirs
-During hydraulic fracturing treatments, a large amount of fracturing fluid is injected into the tight subsurface formation. However, only a small portion of injected fluid can be recovered during the flowback process.
+During hydraulic fracturing treatments, a large amount of fracturing fluid is injected into the tight subsurface formation. However, only a small portion of injected fluid can be recovered during the flowback process. Fracture closure, gravity segregation,
+proppant distribution, matrix capillarity, and shut-in time have been widely postulated to be the contributing factors. In this project, we examine the effects of these factors on fracturing-fluid distribution and subsequent well performance using
+flow and geomechanical simulations. Finally, two real-field exampled are used to validate the findings in this research. 
+
+<p align="center">
+  <img src="../images/flowback.png" />
+  <br>
+  <em> history matching of flowback data of a field example; flowback data help reduce uncertainties. </em>
+</p>
 
 
+<p align="center">
+  <img src="../images/fluid_distribution.png" />
+  <br>
+  <em> fracturing fluid distribution around intersecting hydraulic fractures at the end of 3 days shut-in</em>
+</p>
 
 
 
