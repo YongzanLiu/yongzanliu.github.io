@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 ## Conference Presentations
-- 2020-07-20: *Strain and Strain-Rate Responses Measured by LF-DAS and Corresponding Features for Fracture-Hit Detection during Multi-Fracture Propagation*, SPE/AAPG/SEG Unconventional Resources Technology Conference (URTeC) 
-- 2020-07-21: *Numerical Investigation of Flowback Characteristics for Unconventional Gas Reservoirs with Complex Fracture Geometries*, SPE/AAPG/SEG Unconventional Resources Technology Conference (URTeC)
+- 2020-07-20: *Strain and Strain-Rate Responses Measured by LF-DAS and Corresponding Features for Fracture-Hit Detection during Multi-Fracture Propagation*, Unconventional Resources Technology Conference (URTeC) 
+- 2020-07-21: *Numerical Investigation of Flowback Characteristics for Unconventional Gas Reservoirs with Complex Fracture Geometries*, Unconventional Resources Technology Conference (URTeC)
