@@ -16,4 +16,5 @@ redirect_from:
 Recent News
 ======
 
+- 2020-07-20 [Presented our paper about Low-Frequency Distributed Acoustic Sensing (LF-DAS) at virtual URTeC](https://www.onepetro.org/conference-paper/URTEC-2020-2948-MS)
 - 2020-06-25 My first personal website is launched!
