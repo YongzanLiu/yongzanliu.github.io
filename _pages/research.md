@@ -31,7 +31,7 @@ This study investigated the feasibility and efficiency of an innovative fluid in
 <p align="center">
   <img src="../images/FluidInjection.tif" />
   <br>
-  <em> Water saturation distribution after inter-fracture water injection under lower rate (left) and higher rate (right)</em>
+  <em> Oil saturation distribution after inter-fracture water injection under lower rate (left) and higher rate (right)</em>
 </p>
 
 ### Depletion-Induced Stress Re-Distribution in Shale-Gas Reservoirs
