@@ -10,7 +10,7 @@ author_profile: true
 ## Journal Article
 <sup>\*</sup> denotes corresponding author
 
-1. **Liu, Y.**, Jin, G., Wu, K., Moridis, G. J. (accepted). Hydraulic Fracture Width Inversion Using LF-DAS Strain Data. Part I: Algorithm and Sensitivity Analysis. *SPE Journal*. SPE-204225-PA. (accepted for publication on September 02, 2020)
+1. **Liu, Y.**, Jin, G., Wu, K., Moridis, G. J. (accepted). Hydraulic Fracture Width Inversion Using LF-DAS Strain Data. Part I: Algorithm and Sensitivity Analysis. *SPE Journal*. SPE-204225-PA. (accepted for publication on September 02)
 1. **Liu, Y.**, Wu, K., Jin, G., Moridis, G. J. 2020. Rock Deformation and Strain-Rate Characterization during Hydraulic Fracturing Treatments: Insights for Interpretation of Low-Frequency Distributed Acoustic-Sensing Signals. *SPE Journal*. SPE-202482-PA. [https://doi.org/10.2118/202482-PA](https://doi.org/10.2118/202482-PA)
 1. **Liu, Y.**, Liu, L., Leung, J. Y., Wu, K., Moridis, G. J. 2020. Coupled Flow/Geomechanics Modeling of Interfracture Water Injection To Enhance Oil Recovery in Tight Reservoirs. *SPE Journal*. SPE-199983-PA. [https://doi.org/10.2118/199983-PA](https://doi.org/10.2118/199983-PA)
 1. **Liu, Y.**, Liu, L., Leung, J. Y., Moridis, G. J. 2020. Sequentially Coupled Flow and Geomechanical Simulation with a Discrete Fracture Model for Analyzing Fracturing Fluid Recovery and Distribution in Fractured Ultra-Low Permeability Gas Reservoirs. *Journal of Petroleum Science and Engineering* **189**: 107042. [https://doi.org/10.1016/j.petrol.2020.107042](https://doi.org/10.1016/j.petrol.2020.107042)
