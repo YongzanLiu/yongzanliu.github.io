@@ -5,18 +5,40 @@ permalink: /research/
 author_profile: true
 ---
 
-## Application of Low-Frequency Distributed Acoustic Sensing (LF-DAS) Technique in Quantitative Hydraulic Fracture Characterization
+## Application of Low-Frequency Distributed Acoustic Sensing (LF-DAS) in Quantitative Hydraulic Fracture Characterization
 
 Hydraulic fracturing with plug-and-perf completion technique along horizontal wellbore is widely used in the economic development of unconventional reservoirs. Well performance is directly linked to the stimulated fracture geometry. 
 A better understanding of stimulated fracture geometry is critical for improving the efficiency of hydraulic fracturing treatments and optimizing well production. The Low-Frequency components of Distributed Acoustic Sensing (LF-DAS) data, 
 which is a direct in-situ measurement of fracture-induced rock deformation, is a promising attribute for fracture-hit detection and hydraulic-fracture characterization. In this project, we conduct fundamental research on the mechanisms for 
 LF-DAS signals, develop inversion algorithms for quantitative hydraulic-fracture geometry characterization, and propose practical workflows for field applications.
 
+### Geomechanical Modeling of Fracture-Induced Strain Variation Measured By LF-DAS
+
+Large amounts of DAS data have been acquired across different formations with the advancement in fiber technology. However, the tremendous accomplishment is not matched with an equal advancement in data interpretation. 
+Measured signals from different wells exhibiting various characteristics and mechanisms attributing to the difference are not well understood, which makes the interpretation of field LF-DAS data most challenging. In this project, we conduct 
+forward fracture modeling. The induced rock deformation and corresponding strain-rate variations along offset monitor wells are analyzed and related to specific fracture geometries. 
+
 <p align="center">
   <img src="../images/waterfall_plot.jpg" />
   <br>
   <em> A numerical simulation example: strain-rate waterfall plot</em>
 </p>
+
+### Guideline for Fracture-Hit Identification during Multifracture Propagation 
+
+Channels with fracture hits usually show significant peak values of strain rates. However, when the cluster spacing is close to the gauge length, the characteristic signatures corresponding to each single fracture becomes less distinguishable. 
+We propose a guideline for fracture-hit identification with very complicated LF-DAS signals. 
+
+<p align="center">
+  <img src="../images/FracHit.jpg" />
+  <br>
+  <em> (a) Numerical results and (b) field example of strain rates and corresponding feature plots for fracture-hit identification</em>
+</p>
+
+### Inversion of LF-DAS Strain Data to Estimate Fracture Geometry
+
+
+
 
 ## Development and Applications of Coupled Multiphase Flow and Geomechanics Models for Fractured Unconventional Reservoirs
 
