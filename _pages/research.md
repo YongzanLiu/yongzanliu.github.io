@@ -24,16 +24,6 @@ forward fracture modeling. The induced rock deformation and corresponding strain
   <em> A numerical simulation example: strain-rate waterfall plot</em>
 </p>
 
-### Guideline for Fracture-Hit Identification during Multifracture Propagation 
-
-Channels with fracture hits usually show significant peak values of strain rates. However, when the cluster spacing is close to the gauge length, the characteristic signatures corresponding to each single fracture becomes less distinguishable. 
-We propose a guideline for fracture-hit identification with very complicated LF-DAS signals. 
-
-<p align="center">
-  <img src="../images/FracHit.jpg" />
-  <br>
-  <em> (a) Numerical results and (b) field example of strain rates and corresponding feature plots for fracture-hit identification</em>
-</p>
 
 ### Inversion of LF-DAS Strain Data to Estimate Fracture Geometry
 
