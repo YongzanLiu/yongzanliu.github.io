@@ -26,7 +26,15 @@ forward fracture modeling. The induced rock deformation and corresponding strain
 
 
 ### Inversion of LF-DAS Strain Data to Estimate Fracture Geometry
+In this project, we propose an inversion algorithm, in which the strains monitored by LF-DAS along an offset well are related to the fracture widths through a Green function. 
+Our analysis indicates that LF-DAS data shows a dominant sensitivity of fracture width near the monitor well. 
+The results of this study demonstrate how much information can be obtained with high confidence from the inversion of LF-DAS strain data, which is beneficial for future utilization of LF-DAS data.
 
+<p align="center">
+  <img src="../images/inversion.tif" />
+  <br>
+  <em> Comparison of inverted widths and true width (left) and width evolution as a function of injection time (right)</em>
+</p>
 
 
 
