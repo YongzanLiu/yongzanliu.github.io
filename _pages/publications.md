@@ -10,7 +10,7 @@ author_profile: true
 ## Journal Article
 <sup>\*</sup> denotes corresponding author
 
-1. **Liu, Y.**, Wu, K., Jin, G., Moridis, G. J., Kerr, E., et al. (accepted). Fracture-Hit Detection Using LF-DAS Signals Measured during Multifracture Propagation in Unconventional Reservoirs. *SPE Reservoir Evaluation & Engineering*. SPE-204457-PA. (accepted for publication on 05 October, 2020)
+1. **Liu, Y.**, Wu, K., Jin, G., Moridis, G. J., Kerr, E., et al. (in press). Fracture-Hit Detection Using LF-DAS Signals Measured during Multifracture Propagation in Unconventional Reservoirs. *SPE Reservoir Evaluation & Engineering*. SPE-204457-PA. [https://doi.org/10.2118/204457-PA](https://doi.org/10.2118/204457-PA) 
 1. **Liu, Y.**, Jin, G., Wu, K., Moridis, G. J. (in press). Hydraulic-Fracture-Width Inversion Using Low-Frequency Distributed-Acoustic-Sensing Strain Data - Part I: Algorithm and Sensitivity Analysis. *SPE Journal*. SPE-204225-PA. [https://doi.org/10.2118/204225-PA](https://doi.org/10.2118/204225-PA)
 1. **Liu, Y.**, Liu, L., Leung, J. Y., Wu, K., Moridis, G. J. (in press). Coupled Flow/Geomechanics Modeling of Interfracture Water Injection To Enhance Oil Recovery in Tight Reservoirs. *SPE Journal*. SPE-199983-PA. [https://doi.org/10.2118/199983-PA](https://doi.org/10.2118/199983-PA)
 1. **Liu, Y.**, Wu, K., Jin, G., Moridis, G. J. 2020. Rock Deformation and Strain-Rate Characterization during Hydraulic Fracturing Treatments: Insights for Interpretation of Low-Frequency Distributed Acoustic-Sensing Signals. *SPE Journal*. **25** (05): 2251-2264. SPE-202482-PA. [https://doi.org/10.2118/202482-PA](https://doi.org/10.2118/202482-PA)
