@@ -12,10 +12,11 @@ author_profile: true
 
 - Journal Technical Reviewer:
 
+  - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
   - [SPE Journal](https://www.onepetro.org/journals)
   - [SPE Reservoir Evaluation & Engineering](https://www.onepetro.org/journals)
   - [SPE Production & Operations](https://www.onepetro.org/journals)
-  - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
+  - [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
   - [Energy & Fuels](https://pubs.acs.org/journal/enfuem)
   - [Journal of Petroleum Science and Engineering](https://www.journals.elsevier.com/journal-of-petroleum-science-and-engineering)
   - [Engineering Computations](https://www.emerald.com/insight/publication/issn/0264-4401)
