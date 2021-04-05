@@ -16,6 +16,6 @@ redirect_from:
 Recent News
 ======
 
-- 2020-08-04 Our paper on fracturing fluid distribution ([SPE-185043-PA](https://doi.org/10.2118/185043-PA)) is one of the [top cited papers](https://pubs.spe.org/en/jpt/jpt-briefs-detail-page/?art=4435&_ga=2.183381990.1304508152.1596499311-510809023.1586359282) across the SPE's peer-reviewed journals
+- 2020-08-04 Our paper on fracturing fluid distribution ([SPE-185043-PA](https://doi.org/10.2118/185043-PA)) is one of the top cited papers across the SPE's peer-reviewed journals
 - 2020-07-20 [Presented our paper about Low-Frequency Distributed Acoustic Sensing (LF-DAS) at virtual URTeC](https://www.onepetro.org/conference-paper/URTEC-2020-2948-MS)
 - 2020-06-25 My first personal website is launched!
