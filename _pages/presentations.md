@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Invited Talk
-- 2021-06-10: [Sequentially Coupled Multiphase Flow and Geomechanics Modeling of Hydraulically Fractured Unconventional Reservoirs](https://yongzanliu.github.io/files/LBNL_20210610.pdf)
+- 2021-06-10: [Sequentially Coupled Multiphase Flow and Geomechanics Modeling of Hydraulically Fractured Unconventional Reservoirs](https://yongzanliu.github.io/files/LBNL_20210610.pdf), Lawrence Berkeley National Laboratory.
 
 ## Conference Presentation 
 - 2021-02-06: [*Quantitative Hydraulic-Fracture Geometry Characterization with LF-DAS Strain Data: Numerical Analysis and Field Applications*](https://doi.org/10.2118/204158-MS), SPE Hydraulic Fracturing Technology Conference and Exhibition. 
