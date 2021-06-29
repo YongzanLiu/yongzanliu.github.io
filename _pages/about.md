@@ -16,8 +16,9 @@ redirect_from:
 Recent News
 ======
 
-- 2020-06-10 Virtually visited Lawrence Berkeley National Lab and had some great discussions with the researchers there on subsurface coupled process modeling!
-- 2020-05-26 Successfully defended my Ph.D. thesis on hydraulic fracture characterization using low-frequency distributed acoustic sensing!
+- 2021-06-22 Winner of the first ARMA Graduate Research Competition!
+- 2021-06-10 Virtually visited Lawrence Berkeley National Lab and had some great discussions with the researchers there on subsurface coupled process modeling!
+- 2021-05-26 Successfully defended my Ph.D. thesis on hydraulic fracture characterization using low-frequency distributed acoustic sensing!
 - 2021-05-06 Presented our paper on quantitative hydraulic fracture characterization using LF-DAS strain data at virtual HFTC. [SPE-204158-MS](https://doi.org/10.2118/204158-MS)
 - 2021-03-27 I won the ARMA-TAMU Graduate Research Competition, will compete with students from other universities at the upcoming ARMA Symposium!
 - 2021-02-12 I am the third place winner for TAMU SPE Student Paper Contest (PhD Division)
