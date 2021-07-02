@@ -7,13 +7,16 @@ author_profile: true
 
 - Check [Google Scholar](https://scholar.google.com/citations?user=jYtKN4EAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yongzan_Liu) for a list of publications available online
 
+## Feature Article 
+1. Wu, K., **Liu, Y.**, Jin, G., Moridis, G. J. 2021. Fracture Hits and Hydraulic-Fracture Geometry Characterization Using Low-Frequency Distributed Acoustic Sensing Strain Data. *Journal of Petroleum Technology*. [link](https://jpt.spe.org/fracture-hits-and-hydraulic-fracture-geometry-characterization-using-low-frequency-distributed-acoustic-sensing-strain-data)
+
 ## Journal Article
 <sup>\*</sup> denotes corresponding author
 
 1. **Liu, Y.**, Jin, G., Wu, K., Moridis, G. J. (in press). Hydraulic-Fracture-Width Inversion Using Low-Frequency Distributed-Acoustic-Sensing Strain Data - Part II: Extension for Multifracture and Field Application. *SPE Journal*. SPE-205379-PA. [https://doi.org/10.2118/205379-PA](https://doi.org/10.2118/205379-PA) 
 1. **Liu, Y.**, Wu, K., Jin, G., Moridis, G. J., Kerr, E., et al. (in press). Fracture-Hit Detection Using LF-DAS Signals Measured during Multifracture Propagation in Unconventional Reservoirs. *SPE Reservoir Evaluation & Engineering*. SPE-204457-PA. [https://doi.org/10.2118/204457-PA](https://doi.org/10.2118/204457-PA) 
 1. **Liu, Y.**, Jin, G., Wu, K., Moridis, G. J. 2021. Hydraulic-Fracture-Width Inversion Using Low-Frequency Distributed-Acoustic-Sensing Strain Data - Part I: Algorithm and Sensitivity Analysis. *SPE Journal* **26** (01): 359-371. SPE-204225-PA. [https://doi.org/10.2118/204225-PA](https://doi.org/10.2118/204225-PA)
-1. **Liu, Y.**, Liu, L., Leung, J. Y., Wu, K., Moridis, G. J. (2021). Coupled Flow/Geomechanics Modeling of Interfracture Water Injection To Enhance Oil Recovery in Tight Reservoirs. *SPE Journal* **26** (01): 1-21. SPE-199983-PA. [https://doi.org/10.2118/199983-PA](https://doi.org/10.2118/199983-PA)
+1. **Liu, Y.**, Liu, L., Leung, J. Y., Wu, K., Moridis, G. J. 2021. Coupled Flow/Geomechanics Modeling of Interfracture Water Injection To Enhance Oil Recovery in Tight Reservoirs. *SPE Journal* **26** (01): 1-21. SPE-199983-PA. [https://doi.org/10.2118/199983-PA](https://doi.org/10.2118/199983-PA)
 1. **Liu, Y.**, Wu, K., Jin, G., Moridis, G. J. 2020. Rock Deformation and Strain-Rate Characterization during Hydraulic Fracturing Treatments: Insights for Interpretation of Low-Frequency Distributed Acoustic-Sensing Signals. *SPE Journal*. **25** (05): 2251-2264. SPE-202482-PA. [https://doi.org/10.2118/202482-PA](https://doi.org/10.2118/202482-PA)
 1. **Liu, Y.**, Liu, L., Leung, J. Y., Moridis, G. J. 2020. Sequentially Coupled Flow and Geomechanical Simulation with a Discrete Fracture Model for Analyzing Fracturing Fluid Recovery and Distribution in Fractured Ultra-Low Permeability Gas Reservoirs. *Journal of Petroleum Science and Engineering* **189**: 107042. [https://doi.org/10.1016/j.petrol.2020.107042](https://doi.org/10.1016/j.petrol.2020.107042)
 1. Liu, L, **Liu, Y.**<sup>\*</sup>, Yao, J., Huang, Z. 2020. Mechanistic Study of Cyclic Water Injection to Enhance Oil Recovery in Tight Reservoirs with Fracture Deformation Hysteresis. *Fuel* **271**: 117677. [https://doi.org/10.1016/j.fuel.2020.117677](https://doi.org/10.1016/j.fuel.2020.117677)
