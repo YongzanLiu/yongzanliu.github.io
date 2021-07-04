@@ -18,6 +18,7 @@ author_profile: true
   - [SPE Production & Operations](https://www.onepetro.org/journals)
   - [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
   - [Energy & Fuels](https://pubs.acs.org/journal/enfuem)
+  - [Fuel](https://www.journals.elsevier.com/fuel)
   - [Journal of Petroleum Science and Engineering](https://www.journals.elsevier.com/journal-of-petroleum-science-and-engineering)
   - [Engineering Computations](https://www.emerald.com/insight/publication/issn/0264-4401)
   - [ACS Omega](https://pubs.acs.org/journal/acsodf)
