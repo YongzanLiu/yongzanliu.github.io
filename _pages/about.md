@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+- I am currently a postdoctoral scholar in the Energy Geoscience Division of Lawrence Berkeley National Laboratory.
 - I hold a Ph.D. degree in Petroleum Engineering from Texas A&M University
-- Before joining TAMU, I received my M.S. degree in Petroleum Engineering from the [University of Alberta](https://www.ualberta.ca/index.html) in 2017
+- Before joining TAMU, I received my M.S. degree in Petroleum Engineering from the University of Alberta in 2017
 - My general research interests include computational geomechanics, fractured reservoir simulation, fiber-optic sensing and integrated geomechanics-geophysics-flow modeling
 - My recent [Curriculum Vitae](https://yongzanliu.github.io/files/Yongzan_CV.pdf)
 
