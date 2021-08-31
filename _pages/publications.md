@@ -8,7 +8,7 @@ author_profile: true
 - Check [Google Scholar](https://scholar.google.com/citations?user=jYtKN4EAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yongzan_Liu) for a list of publications available online
 
 ## Feature Article 
-1. Wu, K., **Liu, Y.**, Jin, G., Moridis, G. J. 2021. Fracture Hits and Hydraulic-Fracture Geometry Characterization Using Low-Frequency Distributed Acoustic Sensing Strain Data. *Journal of Petroleum Technology*. **73** (07): 39-42. SPE-0721-0039-JPT. [https://doi.org/10.2118/0721-0039-JPT]
+1. Wu, K., **Liu, Y.**, Jin, G., Moridis, G. J. 2021. Fracture Hits and Hydraulic-Fracture Geometry Characterization Using Low-Frequency Distributed Acoustic Sensing Strain Data. *Journal of Petroleum Technology*. **73** (07): 39-42. SPE-0721-0039-JPT. [https://doi.org/10.2118/0721-0039-JPT](https://doi.org/10.2118/0721-0039-JPT)
 
 ## Journal Article
 <sup>\*</sup> denotes corresponding author
