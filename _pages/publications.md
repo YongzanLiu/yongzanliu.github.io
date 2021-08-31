@@ -13,6 +13,7 @@ author_profile: true
 ## Journal Article
 <sup>\*</sup> denotes corresponding author
 
+1. **Liu, Y.**, Jin, G., Wu, K. (accepted). New Insights on Characteristics of Near-Wellbore Fractured Zone from Simulated High-Resolution Distributed Strain Sensing Data. *SPE Reservoir Evaluation & Engineering*. SPE-208587-PA.
 1. **Liu, Y.**, Jin, G., Wu, K., Moridis, G. J. (accepted). Quantitative Hydraulic-Fracture Geometry Characterization with LF-DAS Strain Data: Fracture-Height Sensitivity and Field Applications. *SPE Production & Operations*. SPE-204158-PA.
 1. **Liu, Y.**, Jin, G., Wu, K., Moridis, G. J. (in press). Hydraulic-Fracture-Width Inversion Using Low-Frequency Distributed-Acoustic-Sensing Strain Data - Part II: Extension for Multifracture and Field Application. *SPE Journal*. SPE-205379-PA. [https://doi.org/10.2118/205379-PA](https://doi.org/10.2118/205379-PA) 
 1. **Liu, Y.**, Wu, K., Jin, G., Moridis, G. J., Kerr, E., et al. 2021. Fracture-Hit Detection Using LF-DAS Signals Measured during Multifracture Propagation in Unconventional Reservoirs. *SPE Reservoir Evaluation & Engineering*. **24** (03): 523-535. SPE-204457-PA. [https://doi.org/10.2118/204457-PA](https://doi.org/10.2118/204457-PA) 
