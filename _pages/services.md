@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "Professional Services"
+title: "Scholarly Services"
 permalink: /services/
 author_profile: true
 ---
 
-- Conference Committee
+- Major Professional Activities
 
-  - Organizing Committee Member, [55th ARMA Rock Mechanics/Geomechanics Symposium](https://www.armarocks.org/texas-2021-symposium/)
+  - Organizing Committee Member, 55th ARMA Rock Mechanics/Geomechanics Symposium
+  - Session Developer, 56th ARMA Rock Mechanics/Geomechanics Symposium
+  - Judge, 2021 SPE ATCE Student Paper Contest (PhD Division)
 
 
 - Journal Technical Reviewer:
