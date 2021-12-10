@@ -17,6 +17,7 @@ redirect_from:
 Recent News
 ======
 
+- 2021-12-01 My PhD work was highlighted in the TAMU engineering department news. [Link](https://engineering.tamu.edu/news/2021/11/pete-new-algorithm-efficiently-diagnoses-shale-fracture-results-from-fiber-optic-data.html)
 - 2021-06-22 Winner of the first ARMA Graduate Research Competition!
 - 2021-06-10 Virtually visited Lawrence Berkeley National Lab and had some great discussions with the researchers there on subsurface coupled process modeling!
 - 2021-05-26 Successfully defended my Ph.D. thesis on hydraulic fracture characterization using low-frequency distributed acoustic sensing!
