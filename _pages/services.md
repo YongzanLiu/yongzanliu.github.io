@@ -14,6 +14,7 @@ author_profile: true
 
 - Journal Technical Reviewer:
 
+  - [International Journal for Numerical and Analytical Methods in Geomechanics](https://onlinelibrary.wiley.com/journal/10969853)
   - [International Journal of Rock Mechanics and Mining Sciences](https://www.journals.elsevier.com/international-journal-of-rock-mechanics-and-mining-sciences)
   - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
   - [SPE Journal](https://www.onepetro.org/journals)
