@@ -39,4 +39,5 @@ author_profile: true
 1. **Liu, Y.**, Leung, J. Y., Chalaturnyk, R., Virus, C. J. J. 2017. Fracturing Fluid Distribution in Shale Gas Reservoirs Due to Fracture Closure, Proppant Distribution and Gravity Segregation. SPE Canada Unconventional Resources Conference, Calgary, Alberta, Canada. 15-16, February. SPE-185043-MS.
 
 ## Thesis
-1. **Liu, Yongzan** 2017. [Modeling of Recovery and In-situ Distribution of Fracturing Fluid in Shale Gas Reservoirs Due to Fracture Closure, Proppant Distribution and Gravity Segregation](http://yongzanliu.github.io/files/Liu_Yongzan_201703_MSc.pdf). MSc Thesis. University of Alberta.
+1. **Liu, Yongzan** 2021. [Hydraulic Fracture Geometry Characterization Using Low-Frequency Distributed Acoustic Sensing Data: Forward Modeling, Inverse Modeling, and Field Applications](https://oaktrust.library.tamu.edu/handle/1969.1/195139). PhD Dissertation. Texas A&M University. 
+1. **Liu, Yongzan** 2017. [Modeling of Recovery and In-situ Distribution of Fracturing Fluid in Shale Gas Reservoirs Due to Fracture Closure, Proppant Distribution and Gravity Segregation](https://era.library.ualberta.ca/items/f9bd7d80-4835-4d8e-a9c2-6e974e7956c8). MSc Thesis. University of Alberta.
