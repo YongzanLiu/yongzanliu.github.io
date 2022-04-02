@@ -1,17 +1,20 @@
 ---
 layout: archive
-title: "Professional Services"
+title: "Scholarly Services"
 permalink: /services/
 author_profile: true
 ---
 
-- Conference Committee
+- Major Professional Activities
 
-  - Organizing Committee Member, [55th ARMA Rock Mechanics/Geomechanics Symposium](https://www.armarocks.org/texas-2021-symposium/)
+  - Organizing Committee Member, 55th ARMA Rock Mechanics/Geomechanics Symposium
+  - Session Developer, 56th ARMA Rock Mechanics/Geomechanics Symposium
+  - Judge, 2021 SPE ATCE Student Paper Contest (PhD Division)
 
 
 - Journal Technical Reviewer:
 
+  - [International Journal for Numerical and Analytical Methods in Geomechanics](https://onlinelibrary.wiley.com/journal/10969853)
   - [International Journal of Rock Mechanics and Mining Sciences](https://www.journals.elsevier.com/international-journal-of-rock-mechanics-and-mining-sciences)
   - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
   - [SPE Journal](https://www.onepetro.org/journals)
