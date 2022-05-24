@@ -5,12 +5,18 @@ permalink: /services/
 author_profile: true
 ---
 
+- Major Editorships
+
+  - Guest Editor, special issue - Distributed Fiber Optic Sensing, *Interpretation* [Link](https://library.seg.org/page/inteio/interpretation-distributed-fiber-optic-sensing)
+  - Guest Editor, special issue - Integrated Geosciences and Engineering in Unconventional Oil and Gas Resources: Novel Insights and Challenges, *Lithosphere*, 2022
+
+
 - Major Professional Activities
 
-  - Organizing Committee Member, 55th ARMA Rock Mechanics/Geomechanics Symposium
-  - Session Developer, 56th ARMA Rock Mechanics/Geomechanics Symposium
+  - Judge, 2022 SPE Rocky Mountain Regional Student Paper Contest
   - Judge, 2021 SPE ATCE Student Paper Contest (PhD Division)
-
+  - Session Developer, 56th ARMA Rock Mechanics/Geomechanics Symposium, 2022
+  - Organizing Committee Member (studetn activity), 55th ARMA Rock Mechanics/Geomechanics Symposium, 2021
 
 - Journal Technical Reviewer:
 
