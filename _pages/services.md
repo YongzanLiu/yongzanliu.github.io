@@ -16,7 +16,7 @@ author_profile: true
   - Judge, 2022 SPE Rocky Mountain Regional Student Paper Contest
   - Judge, 2021 SPE ATCE Student Paper Contest (PhD Division)
   - Session Developer, 56th ARMA Rock Mechanics/Geomechanics Symposium, 2022
-  - Organizing Committee Member (studetn activity), 55th ARMA Rock Mechanics/Geomechanics Symposium, 2021
+  - Organizing Committee Member (student activity), 55th ARMA Rock Mechanics/Geomechanics Symposium, 2021
 
 - Journal Technical Reviewer:
 
