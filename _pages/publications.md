@@ -13,7 +13,7 @@ author_profile: true
 ## Journal Article
 <sup>\*</sup> denotes corresponding author
 
-1. Moridis, G. J., Reagan, M. T., **Liu, Y.** (in press). Numerical simulations in support of a long-term test of gas production from hydrate accumulations on the Alaska North Slope: Reservoir response to interruptions of production (shut-ins). *Energy & Fuels*. [https://doi.org/10.1021/acs.energyfuels.1c04274](https://doi.org/10.1021/acs.energyfuels.1c04274)
+1. Moridis, G. J., Reagan, M. T., **Liu, Y.**. 2022. Numerical simulations in support of a long-term test of gas production from hydrate accumulations on the Alaska North Slope: Reservoir response to interruptions of production (shut-ins). *Energy & Fuels*. **36** (7): 3496–3525. [https://doi.org/10.1021/acs.energyfuels.1c04274](https://doi.org/10.1021/acs.energyfuels.1c04274)
 1. **Liu, Y.**, Jin, G., Wu, K. 2022. New Insights on Characteristics of Near-Wellbore Fractured Zone from Simulated High-Resolution Distributed Strain Sensing Data. *SPE Reservoir Evaluation & Engineering*. **25** (01): 99-112. SPE-208587-PA. [https://doi.org/10.2118/208587-PA](https://doi.org/10.2118/208587-PA)
 1. Li, J., **Liu, Y.**, Wu, K. 2022. A New Higher Order Displacement Discontinuity Method Based on the Joint Element for Analysis of Close-Spacing Planar Fractures. *SPE Journal*. **27** (02): 1123-1139. SPE-208614-PA. [https://doi.org/10.2118/208614-PA](https://doi.org/10.2118/208614-PA)
 1. **Liu, Y.**, Jin, G., Wu, K., Moridis, G. J. 2022. Quantitative Hydraulic-Fracture Geometry Characterization with LF-DAS Strain Data: Fracture-Height Sensitivity and Field Applications. *SPE Production & Operations*. **37** (02): 159-168. SPE-204158-PA. [https://doi.org/10.2118/204158-PA](https://doi.org/10.2118/204158-PA) 
