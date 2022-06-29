@@ -29,6 +29,7 @@ author_profile: true
 1. **Liu, Y.**, Leung, J. Y., Chalaturnyk, R. 2018. Geomechanical Simulation of Partially Propped Fracture Closure and Its Implication for Water Flowback and Gas Production. *SPE Reservoir Evaluation & Engineering* **21** (02): 273-290. SPE-189454-PA. (**a spotlight paper on Unconventional Resources**). [https://doi.org/10.2118/189454-PA](https://doi.org/10.2118/189454-PA)
 
 ## Conference Paper
+1. Srinivasan, A., **Liu, Y.**, Wu, K., Jin, G., Moridis, GJ. 2022. Geomechanical Modeling of Fracture-Induced Vertical Strain Measured by Distributed Fiber Optic Strain Sensing. Unconventional Resources Technology Conference, Houston, Texas, USA. 20-23 June.
 1. **Liu, Y.**, Jin, G., Wu, K. 2021. New Insights on Near-Wellbore Fracture Characteristics from High-Resolution Distributed Strain Sensing Measurements. Unconventional Resources Technology Conference, Houston, Texas, USA. 26-28 July.
 1. **Liu, Y.**, Wu, K., Jin, G., Moridis, G. J. 2021. Quantification of Thermal Effects on Cross-Well Low-Frequency Distributed Acoustic Sensing Measurements. Unconventional Resources Technology Conference, Houston, Texas, USA. 26-28 July.
 1. **Liu, Y.**, Jin, G., Wu, K., Moridis, G. J. 2021. Quantitative Hydraulic-Fracture Geometry Characterization with LF-DAS Strain Data: Numerical Analysis and Field Applications. SPE Hydraulic Fracturing Technology Conference and Exhibition, The Woodlands, Texas, USA (Virtual). 4-6 May. SPE-204158-MS.
