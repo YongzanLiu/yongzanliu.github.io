@@ -13,13 +13,16 @@ author_profile: true
 
 - Major Professional Activities
 
+  - Program Committee, 2023 SPE Annual Technical Conference and Exhibition (ATCE)
+  - Judge, 2022 SPE ATCE Student Paper Contest (PhD Division)
   - Judge, 2022 SPE Rocky Mountain Regional Student Paper Contest
   - Judge, 2021 SPE ATCE Student Paper Contest (PhD Division)
-  - Session Developer, 56th ARMA Rock Mechanics/Geomechanics Symposium, 2022
+  - Session Developer/Chair, 56th ARMA Rock Mechanics/Geomechanics Symposium, 2022
   - Organizing Committee Member (student activity), 55th ARMA Rock Mechanics/Geomechanics Symposium, 2021
 
 - Journal Technical Reviewer:
 
+  - [Transport in Porous Media](https://www.springer.com/journal/11242/)
   - [International Journal for Numerical and Analytical Methods in Geomechanics](https://onlinelibrary.wiley.com/journal/10969853)
   - [International Journal of Rock Mechanics and Mining Sciences](https://www.journals.elsevier.com/international-journal-of-rock-mechanics-and-mining-sciences)
   - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
