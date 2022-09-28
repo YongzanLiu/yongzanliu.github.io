@@ -29,6 +29,7 @@ author_profile: true
   - [SPE Journal](https://www.onepetro.org/journals)
   - [SPE Reservoir Evaluation & Engineering](https://www.onepetro.org/journals)
   - [SPE Production & Operations](https://www.onepetro.org/journals)
+  - [SPE Drilling & Completion](https://www.onepetro.org/journals)
   - [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
   - [Energy & Fuels](https://pubs.acs.org/journal/enfuem)
   - [Fuel](https://www.journals.elsevier.com/fuel)
