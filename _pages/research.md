@@ -18,7 +18,7 @@ which is a direct in-situ measurement of fracture-induced rock deformation, is a
 LF-DAS signals, develop inversion algorithms for quantitative hydraulic-fracture geometry characterization, and propose practical workflows for field applications. The figure below shows the general workflow we have developed for LF-DAS data interpretation.
 
 <p align="center">
-  <img src="../images/lfdas_workflow.tif" />
+  <img src="../images/lfdas.tif" />
   <br>
   <em> General workflow for LFDAS data interpretation</em>
 </p>
