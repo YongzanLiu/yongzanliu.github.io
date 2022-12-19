@@ -30,7 +30,7 @@ author_profile: true
 1. **Liu, Y.**, Leung, J. Y., Chalaturnyk, R. 2018. Geomechanical Simulation of Partially Propped Fracture Closure and Its Implication for Water Flowback and Gas Production. *SPE Reservoir Evaluation & Engineering* **21** (02): 273-290. SPE-189454-PA. (**a spotlight paper on Unconventional Resources**). [https://doi.org/10.2118/189454-PA](https://doi.org/10.2118/189454-PA)
 
 ## Conference Paper
-1. Liu, L., **Liu, Y.**, Wang, X., and Yao, J. A Coupled Hydro-Mechanical Model for Simulation of Two-Phase Flow and Geomechanical Deformation in Naturally Fractured Porous Media. 56th U.S. Rock Mechanics/Geomechanics Symposium, Santa Fe, New Mexico, USA, June 2022.
+1. Liu, L., **Liu, Y.**, Wang, X., and Yao, J. 2022. A Coupled Hydro-Mechanical Model for Simulation of Two-Phase Flow and Geomechanical Deformation in Naturally Fractured Porous Media. 56th U.S. Rock Mechanics/Geomechanics Symposium, Santa Fe, New Mexico, USA, June 2022.
 1. Srinivasan, A., **Liu, Y.**, Wu, K., Jin, G. and Moridis, G.J., 2022. Analysis of Strain Responses in Vertical Monitoring Wells for Low-Frequency Distributed Acoustic Sensing. 56th US Rock Mechanics/Geomechanics Symposium, Santa Fe, New Mexico, USA, June 2022.
 1. Srinivasan, A., **Liu, Y.**, Wu, K., Jin, G., Moridis, GJ. 2022. Geomechanical Modeling of Fracture-Induced Vertical Strain Measured by Distributed Fiber Optic Strain Sensing. Unconventional Resources Technology Conference, Houston, Texas, USA. 20-23 June.
 1. **Liu, Y.**, Jin, G., Wu, K. 2021. New Insights on Near-Wellbore Fracture Characteristics from High-Resolution Distributed Strain Sensing Measurements. Unconventional Resources Technology Conference, Houston, Texas, USA. 26-28 July.
