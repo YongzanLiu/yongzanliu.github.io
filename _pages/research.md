@@ -37,6 +37,17 @@ Rayleigh frequency-shift-based distributed strain sensing (RFS-based DSS) is a f
 </p>
 
 
+### Monitoring and Optimizing Water Circulation in Enhanced Geothermal Systems
+The success of multi-stage hydraulic fracturing technology in unconventional oil and gas reservoir development has attracted much attention from the geothermal community. Some pilot field experiments have been conducted to investigate the multi-stage hydraulic stimulation along horizontal or high-deviated wellbores in geothermal reservoirs. One common output of such stimulation is that the created hydraulic fractures show various conductive capabilities, which could potentially lead to undesirable flow localization, early thermal breakthrough, and low cold water sweep efficiency. Monitoring the water circulation between horizontal wellbores connected through hydraulic fractures becomes important in avoiding early severe producing temperature reduction in practical operations. In this study, we investigate the effectiveness of distributed temperature sensing (DTS) and distributed strain sensing (DSS) in identifying dominant flow paths in geothermal reservoirs with multi-stage hydraulic stimulation and horizontal well completion designs.
+
+<p align="center">
+  <img src="../images/egs.png" />
+  <br>
+  <em> Synthetic DTS and DSS responses</em>
+</p>
+
+
+
 ## Development and Applications of Coupled Multiphase Flow and Geomechanics Models for Fractured Unconventional Reservoirs
 
 Unconventional tight reservoirs, which have contributed significantly to the global hydrocarbon production, are typically characterized by low permeability and low porosity. Although hydraulic fracturing along with horizontal well drilling enables
