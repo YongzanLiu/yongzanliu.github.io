@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+Each project has associated paper(s) for reference. For more details, please refer to our papers listed in the Publications page.
+
 ## Hydraulic Fracture Monitoring and Characterization Using Distributed Fiber-Optic Sensing Data
 
 Hydraulic fracturing with plug-and-perf completion technique along horizontal wellbore is widely used in the economic development of unconventional reservoirs. Well performance is directly linked to the stimulated fracture geometry. 
