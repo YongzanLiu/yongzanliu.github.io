@@ -7,7 +7,8 @@ author_profile: true
 
 - Major Editorships
 
-  - Guest Editor, special issue - Distributed Fiber Optic Sensing, *Interpretation* [Link](https://library.seg.org/page/inteio/interpretation-distributed-fiber-optic-sensing)
+  - Associate Editor, *Geoenergy Science and Engineering* (renamed fromre Journal of Petroleum Science and Engineering), 2022-
+  - Guest Editor, special issue - Distributed Fiber Optic Sensing, *Interpretation*, 2022
   - Guest Editor, special issue - Integrated Geosciences and Engineering in Unconventional Oil and Gas Resources: Novel Insights and Challenges, *Lithosphere*, 2022
 
 
@@ -30,6 +31,7 @@ author_profile: true
   - [SPE Reservoir Evaluation & Engineering](https://www.onepetro.org/journals)
   - [SPE Production & Operations](https://www.onepetro.org/journals)
   - [SPE Drilling & Completion](https://www.onepetro.org/journals)
+  - [GEOPHYSICS](https://library.seg.org/journal/gpysa7)
   - [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
   - [Energy & Fuels](https://pubs.acs.org/journal/enfuem)
   - [Fuel](https://www.journals.elsevier.com/fuel)
