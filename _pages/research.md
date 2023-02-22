@@ -5,45 +5,54 @@ permalink: /research/
 author_profile: true
 ---
 
-## Application of Low-Frequency Distributed Acoustic Sensing (LF-DAS) in Quantitative Hydraulic Fracture Characterization
+Each project has associated paper(s) for reference. For more details, please refer to our papers listed in the Publications page.
+
+## Hydraulic Fracture Monitoring and Characterization Using Distributed Fiber-Optic Sensing Data
 
 Hydraulic fracturing with plug-and-perf completion technique along horizontal wellbore is widely used in the economic development of unconventional reservoirs. Well performance is directly linked to the stimulated fracture geometry. 
-A better understanding of stimulated fracture geometry is critical for improving the efficiency of hydraulic fracturing treatments and optimizing well production. The Low-Frequency components of Distributed Acoustic Sensing (LF-DAS) data, 
+A better understanding of stimulated fracture geometry is critical for improving the efficiency of hydraulic fracturing treatments and optimizing well production. Fiber-optic sensing has proven to be an effcient technology to monitor subsurface activities including hydraulic fracturing. Recently, both cross-well Distributed Acoustic Sesning data during fracturing treatments and in-well Distributed Strain Sensing data during production stage have been acquired. Such direct in-situ measurements provide unique opportunity to characterize near-wellbore and far-field hydraulic fracture geometry.  
+
+
+### Analysis and Interpretation of Cross-Well Low-Frequency Distributed Acoustic Sensing Data
+
+The Low-Frequency components of Distributed Acoustic Sensing (LF-DAS) data, 
 which is a direct in-situ measurement of fracture-induced rock deformation, is a promising attribute for fracture-hit detection and hydraulic-fracture characterization. In this project, we conduct fundamental research on the mechanisms for 
-LF-DAS signals, develop inversion algorithms for quantitative hydraulic-fracture geometry characterization, and propose practical workflows for field applications.
-
-### Geomechanical Modeling of Fracture-Induced Strain Variation Measured By LF-DAS
-
-Large amounts of DAS data have been acquired across different formations with the advancement in fiber technology. However, the tremendous accomplishment is not matched with an equal advancement in data interpretation. 
-Measured signals from different wells exhibiting various characteristics and mechanisms attributing to the difference are not well understood, which makes the interpretation of field LF-DAS data most challenging. In this project, we conduct 
-forward fracture modeling. The induced rock deformation and corresponding strain-rate variations along offset monitor wells are analyzed and related to specific fracture geometries. 
+LF-DAS signals, develop inversion algorithms for quantitative hydraulic-fracture geometry characterization, and propose practical workflows for field applications. The figure below shows the general workflow we have developed for LF-DAS data interpretation.
 
 <p align="center">
-  <img src="../images/waterfall_plot.jpg" />
+  <img src="../images/lfdas.png" />
   <br>
-  <em> A numerical simulation example: strain-rate waterfall plot</em>
+  <em> General workflow for LFDAS data interpretation</em>
 </p>
 
 
-### Inversion of LF-DAS Strain Data to Estimate Fracture Geometry
-In this project, we propose an inversion algorithm, in which the strains monitored by LF-DAS along an offset well are related to the fracture widths through a Green function. 
-Our analysis indicates that LF-DAS data shows a dominant sensitivity of fracture width near the monitor well. 
-The results of this study demonstrate how much information can be obtained with high confidence from the inversion of LF-DAS strain data, which is beneficial for future utilization of LF-DAS data.
+### Inference of Near-Wellbore Fracture Characteristics from In-Well Distributed Strain Sensing Data
+
+Rayleigh frequency-shift-based distributed strain sensing (RFS-based DSS) is a fiber-optic-based diagnostic technique, which can measure the strain change along the fiber during long-term fluid production/injection periods. [Jin et al. 2021](https://doi.org/10.2118/205394-PA) presented a set of DSS data during prodution and shut-in periods from the Hydraulic Fracture Test Site 2 project to demonstrate its potential to characterize near-wellbore fracture properties. In this research, we applied our in-house coupled flow and geomechanics model to simulate the observed DSS signals under various fractured reservoir conditions. This study provides better understandings of the DSS measurements and their relations to the near-wellbore fracture properties, which is of practical importance for near-wellbore fracture characterization and completion/stimulation optimization.
 
 <p align="center">
-  <img src="../images/inversion.tif" />
+  <img src="../images/dss.tif" />
   <br>
-  <em> Comparison of inverted widths and true width (left) and width evolution as a function of injection time (right)</em>
+  <em> DSS strain change along the fiber: field data (left) and simulation result (right)</em>
+</p>
+
+
+### Monitoring and Optimizing Water Circulation in Enhanced Geothermal Systems
+The success of multi-stage hydraulic fracturing technology in unconventional oil and gas reservoir development has attracted much attention from the geothermal community. Some pilot field experiments have been conducted to investigate the multi-stage hydraulic stimulation along horizontal or high-deviated wellbores in geothermal reservoirs. One common output of such stimulation is that the created hydraulic fractures show various conductive capabilities, which could potentially lead to undesirable flow localization, early thermal breakthrough, and low cold water sweep efficiency. Monitoring the water circulation between horizontal wellbores connected through hydraulic fractures becomes important in avoiding early severe producing temperature reduction in practical operations. In this study, we investigate the effectiveness of distributed temperature sensing (DTS) and distributed strain sensing (DSS) in identifying dominant flow paths in geothermal reservoirs with multi-stage hydraulic stimulation and horizontal well completion designs.
+
+<p align="center">
+  <img src="../images/egs.png" />
+  <br>
+  <em> Synthetic DTS and DSS responses</em>
 </p>
 
 
 
-## Development and Applications of Coupled Multiphase Flow and Geomechanics Models for Fractured Unconventional Reservoirs
+## Development and Applications of Coupled Thermal-Hydraulic-Mechanical (THM) Models for Fractured Subsurface Reservoirs
 
-Unconventional tight reservoirs, which have contributed significantly to the global hydrocarbon production, are typically characterized by low permeability and low porosity. Although hydraulic fracturing along with horizontal well drilling enables
-economic development of such reservoirs, the production rate often declines sharply and results in low primary hydrocarbon recovery. Multiphase flow in fractured porous media is a multi-physics coupled process. To better understand the mechanisms 
-controlling the well performance and improve the hydrocarbon recovery, comprehensive numerical models are needed. In this project, we develop coupled flow and geomechanics models, especially for fractured unconventional reservoirs. The models have been
-applied in evaluating the efficiency and feasibility of injection-type EOR methods and predicting depletion-induced stress evolution.
+Thermal multiphase flow in fractured porous media is a multi-physics coupled process. To better understand the mechanisms 
+controlling the fluid flow and heat transport in deformable subsurface reservoirs, comprehensive numerical models are needed. In this project, we develop coupled fluid flow, heat transport and geomechanics models for fractured deep reservoirs, such as unconventional hydrocarbon reservoirs and enhanced geothermal systems. The models have already been
+applied in various areas, including evaluating the efficiency and feasibility of injection-type EOR methods, predicting depletion-induced stress evolution, and heat recovery from geothermal reservoirs.
 
 ### Feasibility and Efficiency of Inter-Fracture Water Injection to Enhance Oil Recovery in Tight Reservoirs
 This study investigated the feasibility and efficiency of an innovative fluid injection scheme proposed by [Dombrowski et al. 2015](https://patents.google.com/patent/US20130228337) for enhancing tight oil recovery.
