@@ -31,6 +31,7 @@ author_profile: true
   - [SPE Reservoir Evaluation & Engineering](https://www.onepetro.org/journals)
   - [SPE Production & Operations](https://www.onepetro.org/journals)
   - [SPE Drilling & Completion](https://www.onepetro.org/journals)
+  - [Geomechanics and Geophysics for Geo-Energy and Geo-Resources](https://www.springer.com/journal/40948)
   - [GEOPHYSICS](https://library.seg.org/journal/gpysa7)
   - [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
   - [Energy & Fuels](https://pubs.acs.org/journal/enfuem)
