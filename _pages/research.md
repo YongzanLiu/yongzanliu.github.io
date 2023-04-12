@@ -7,6 +7,16 @@ author_profile: true
 
 Each project has associated paper(s) for reference. For more details, please refer to our papers listed in the Publications page.
 
+## Automated Real-Time Microseismic Event Detection Using Distributed Acoustic Sensing Data
+Distributed acoustic sensing (DAS) can provide high-resolution measurements owing to the closely spaced sensing channels over a long distance and high sampling rate – attributes that are beneficial to seismic monitoring and analysis. However, DAS arrays generally suffer from a lower signal-to-noise ratio (SNR). Additionally, dense spatial and temporal measurements can result in extremely large data volumes that hinder efficient data storage, transmission, and processing. In this study, we present a microseismic event detection workflow that is based on coherency analysis of the waveforms and accommodates the high-resolution characteristics of DAS data. DAS data is transformed into an apparent velocity-time (v-t) domain by slant-stacking the data along different apparent velocities, i.e., slopes of the waveform, at each time sample. The coherency of the slant-stacked waveform is measured by the semblance coefficient. A coherent signal is identified if the semblance coefficient is larger than a threshold that is adaptively calculated. Finally, the microseismic events are detected by filtering out the clusters of coherent noise.
+
+<p align="center">
+  <img src="../images/event_detection.png" />
+  <br>
+  <em> waveform coherency-based event detection for DAS data (v-t transform)</em>
+</p>
+
+
 ## Hydraulic Fracture Monitoring and Characterization Using Distributed Fiber-Optic Sensing Data
 
 Hydraulic fracturing with plug-and-perf completion technique along horizontal wellbore is widely used in the economic development of unconventional reservoirs. Well performance is directly linked to the stimulated fracture geometry. 
