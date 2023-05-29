@@ -22,8 +22,17 @@ Distributed acoustic sensing (DAS) can provide high-resolution measurements owin
 Hydraulic fracturing with plug-and-perf completion technique along horizontal wellbore is widely used in the economic development of unconventional reservoirs. Well performance is directly linked to the stimulated fracture geometry. 
 A better understanding of stimulated fracture geometry is critical for improving the efficiency of hydraulic fracturing treatments and optimizing well production. Fiber-optic sensing has proven to be an effcient technology to monitor subsurface activities including hydraulic fracturing. Recently, both cross-well Distributed Acoustic Sesning data during fracturing treatments and in-well Distributed Strain Sensing data during production stage have been acquired. Such direct in-situ measurements provide unique opportunity to characterize near-wellbore and far-field hydraulic fracture geometry.  
 
+### Inference of Hydraulic Fracture Tip Advancement from Cross-Well Low-Frequency Distributed Acoustic Sensing Data before Fracture Hit
+Characterizing the fluid-driven fracture tip advancing process presents a significant challenge due to the difficulty of replicating real-world conditions in laboratory experiments and the lack of precise field measurements. However, recent advances in low-frequency distributed acoustic sensing (LF-DAS) technology offer new opportunities to investigate the dynamics of propagating hydraulic fractures. In this study, we propose an iterative inversion method to characterize fracture-tip advancing behaviors using LF-DAS data before fracture hit. After validating the developed inversion algorithm, we applied it to a field case with a single-cluster hydraulic fracturing treatment from the Hydraulic Fracturing Test Site 2 project (HFTS2). The inversion results of this specific field case reveal that the fracture propagates intermittently, as evidenced by the fracture half-length evolution and propagation velocity.
 
-### Analysis and Interpretation of Cross-Well Low-Frequency Distributed Acoustic Sensing Data
+<p align="center">
+  <img src="../images/before_hit.png" />
+  <br>
+  <em> Waterfall plots of LF-DAS strain and strain-rate data before fracture hit (left) and inversion results of fracture half-length and propagation velocity (right)</em>
+</p>
+
+
+### Analysis and Interpretation of Cross-Well Low-Frequency Distributed Acoustic Sensing Data after Fracture Hit
 
 The Low-Frequency components of Distributed Acoustic Sensing (LF-DAS) data, 
 which is a direct in-situ measurement of fracture-induced rock deformation, is a promising attribute for fracture-hit detection and hydraulic-fracture characterization. In this project, we conduct fundamental research on the mechanisms for 
@@ -32,7 +41,7 @@ LF-DAS signals, develop inversion algorithms for quantitative hydraulic-fracture
 <p align="center">
   <img src="../images/lfdas.png" />
   <br>
-  <em> General workflow for LFDAS data interpretation</em>
+  <em> General workflow for interpretation of LFDAS data after fracture hit</em>
 </p>
 
 
