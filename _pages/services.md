@@ -7,13 +7,14 @@ author_profile: true
 
 - Major Editorships
 
-  - Associate Editor, *Geoenergy Science and Engineering* (renamed from Journal of Petroleum Science and Engineering), 2022-
+  - Associate Editor, *Geoenergy Science and Engineering* (renamed from Journal of Petroleum Science and Engineering), 2022-to date
   - Guest Editor, special issue - Distributed Fiber Optic Sensing, *Interpretation*, 2022
   - Guest Editor, special issue - Integrated Geosciences and Engineering in Unconventional Oil and Gas Resources: Novel Insights and Challenges, *Lithosphere*, 2022
 
 
 - Major Professional Activities
 
+  - Program Committee, 2024 SPE Annual Technical Conference and Exhibition (ATCE)
   - Program Committee, 2023 SPE Annual Technical Conference and Exhibition (ATCE)
   - Judge, 2022 SPE ATCE Student Paper Contest (PhD Division)
   - Judge, 2022 SPE Rocky Mountain Regional Student Paper Contest
@@ -33,6 +34,7 @@ author_profile: true
   - [SPE Drilling & Completion](https://www.onepetro.org/journals)
   - [Geomechanics and Geophysics for Geo-Energy and Geo-Resources](https://www.springer.com/journal/40948)
   - [GEOPHYSICS](https://library.seg.org/journal/gpysa7)
+  - [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
   - [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
   - [Energy & Fuels](https://pubs.acs.org/journal/enfuem)
   - [Fuel](https://www.journals.elsevier.com/fuel)
