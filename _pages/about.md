@@ -18,6 +18,7 @@ redirect_from:
 Recent News
 ======
 
+- 2023-11-25 A new paper on hydrualic fracture characterization using LF-DAS data just got accepted by International Journal of Rock Mechanics and Mining Sciences 
 - 2022-05-13 Honored to receive the PETE Department Faculty Award of Excellence (Doctoral)!
 - 2022-01-01 Excited to get invovled in the interpretation of this novel strain dataset. See the [JPT Report](https://jpt.spe.org/the-sound-of-one-fracture-flowing) and our [SPE Paper](https://doi.org/10.2118/208587-PA)
 - 2021-12-01 My PhD work was highlighted in the TAMU engineering department news. [Link](https://engineering.tamu.edu/news/2021/11/pete-new-algorithm-efficiently-diagnoses-shale-fracture-results-from-fiber-optic-data.html)
