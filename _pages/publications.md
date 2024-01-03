@@ -17,6 +17,7 @@ author_profile: true
 ## Journal Article
 <sup>\*</sup> denotes corresponding author
 
+1. **Liu, Y.**, Liang, L., Zeroug, S. 2024. Stochastic inversion for equivalent hydraulic fracture characterization using low-frequency distributed acoustic sensing data. *International Journal of Rock Mechanics and Mining Sciences*. [https://doi.org/10.1016/j.ijrmms.2023.105610](https://doi.org/10.1016/j.ijrmms.2023.105610)
 1. Srinivasan, A., **Liu, Y.**, Wu, K., Jin, G., Moridis, GJ. 2023. Geomechanical Modeling of Fracture-Induced Vertical Strain Measured by Distributed Fiber Optic Strain Sensing. *SPE Production & Operations*. [https://doi.org/10.2118/214690-PA](https://doi.org/10.2118/214690-PA)
 1. Liu, L., Fan, W., Sun, X., Huang, Z., Yao, J., **Liu, Y.**, Zeng, Q., Wang, X., 2023. Gas condensate well productivity in fractured vuggy carbonate reservoirs: A numerical modeling study. *Geoenergy Science and Engineering*. [https://doi.org/10.1016/j.geoen.2023.211694](https://doi.org/10.1016/j.geoen.2023.211694)
 1. Liu, L., Fan, W., **Liu, Y.**<sup>\*</sup> et al. 2023. Importance of shear dilation to two-phase flow in naturally fractured geological media: A numerical study using zero-thickness interface elements. *Geoenergy Science and Engineering*. [https://doi.org/10.1016/j.geoen.2023.211618](https://doi.org/10.1016/j.geoen.2023.211618)
@@ -37,6 +38,7 @@ author_profile: true
 1. **Liu, Y.**, Leung, J. Y., Chalaturnyk, R. 2018. Geomechanical Simulation of Partially Propped Fracture Closure and Its Implication for Water Flowback and Gas Production. *SPE Reservoir Evaluation & Engineering* **21** (02): 273-290. SPE-189454-PA. (**a spotlight paper on Unconventional Resources**). [https://doi.org/10.2118/189454-PA](https://doi.org/10.2118/189454-PA)
 
 ## Conference Paper
+1. **Liu, Y.**, Liang, L., Zeroug, S. 2023. Stage-level hydraulic fracture width and height quantification through stochastic inversion of distributed fiber-optic strain sensing data. SEG/AAPG International Meeting for Applied Geoscience & Energy, Houston, Texas, August 27-September 1. 
 1. **Liu, Y.**, Liang, L., Podgornova, O. et al. 2023. Automated Microseismic Event Detection for Downhole Distributed Acoustic Sensing Data Processing. 57th US Rock Mechanics/Geomechanics Symposium, Atlanta, Georgia, June 25-28.
 1. Liu, L., **Liu, Y.**, Wang, X. 2023. A novel MCMC-based hydraulic fracture diagnostics approach using water hammer data. 57th U.S. Rock Mechanics/Geomechanics Symposium, Atlanta, Georgia, USA, June 25-28.
 1. Liu, L., **Liu, Y.**, Wang, X., and Yao, J. 2022. A Coupled Hydro-Mechanical Model for Simulation of Two-Phase Flow and Geomechanical Deformation in Naturally Fractured Porous Media. 56th U.S. Rock Mechanics/Geomechanics Symposium, Santa Fe, New Mexico, USA, June 2022.
