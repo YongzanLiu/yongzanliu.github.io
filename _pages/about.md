@@ -18,6 +18,7 @@ redirect_from:
 Recent News
 ======
 
+- 2024-04-03 New paper on inference of fracture tip advacement is available online! Go to [Rock Mechanics and Rock Engineering](https://link.springer.com/article/10.1007/s00603-024-03853-2)
 - 2023-11-25 A new paper on hydrualic fracture characterization using LF-DAS data just got accepted by International Journal of Rock Mechanics and Mining Sciences 
 - 2022-05-13 Honored to receive the PETE Department Faculty Award of Excellence (Doctoral)!
 - 2022-01-01 Excited to get invovled in the interpretation of this novel strain dataset. See the [JPT Report](https://jpt.spe.org/the-sound-of-one-fracture-flowing) and our [SPE Paper](https://doi.org/10.2118/208587-PA)
