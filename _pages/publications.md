@@ -8,7 +8,7 @@ author_profile: true
 - Check [Google Scholar](https://scholar.google.com/citations?user=jYtKN4EAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yongzan_Liu) for a list of publications available online
 
 ## Preprint
-1. **Liu, Y.**, Liang, L. and Zeroug, S., 2023. Enhancing Understanding of Hydraulic Fracture Tip Advancement through Inversion of Low-Frequency Distributed Acoustic Sensing Data. *arXiv preprint arXiv:2305.13138*. [https://arxiv.org/abs/2305.13138](https://arxiv.org/abs/2305.13138)
+1. **Liu, Y.**, Liang, L. and Zeroug, S., 2023. Enhancing Understanding of Hydraulic Fracture Tip Advancement through Inversion of Low-Frequency Distributed Acoustic Sensing Data. *arXiv preprint arXiv:2305.13138*. [https://arxiv.org/abs/2305.13138](https://arxiv.org/abs/2305.13138) Note: improved version is accepted by [https://link.springer.com/article/10.1007/s00603-024-03853-2](Rock Mechanics and Rock Engineering)
 
 
 ## Feature Article 
@@ -17,6 +17,7 @@ author_profile: true
 ## Journal Article
 <sup>\*</sup> denotes corresponding author
 
+1. **Liu, Y.**, Liang, L., Zeroug, S. 2024. Inference of Intermittent Hydraulic Fracture Tip Advancement Through Inversion of Low-Frequency Distributed Acoustic Sensing Data. *Rock Mechanics and Rock Engineering*. [https://link.springer.com/article/10.1007/s00603-024-03853-2](https://link.springer.com/article/10.1007/s00603-024-03853-2)
 1. **Liu, Y.**, Liang, L., Zeroug, S. 2024. Stochastic inversion for equivalent hydraulic fracture characterization using low-frequency distributed acoustic sensing data. *International Journal of Rock Mechanics and Mining Sciences*. [https://doi.org/10.1016/j.ijrmms.2023.105610](https://doi.org/10.1016/j.ijrmms.2023.105610)
 1. Srinivasan, A., **Liu, Y.**, Wu, K., Jin, G., Moridis, GJ. 2023. Geomechanical Modeling of Fracture-Induced Vertical Strain Measured by Distributed Fiber Optic Strain Sensing. *SPE Production & Operations*. [https://doi.org/10.2118/214690-PA](https://doi.org/10.2118/214690-PA)
 1. Liu, L., Fan, W., Sun, X., Huang, Z., Yao, J., **Liu, Y.**, Zeng, Q., Wang, X., 2023. Gas condensate well productivity in fractured vuggy carbonate reservoirs: A numerical modeling study. *Geoenergy Science and Engineering*. [https://doi.org/10.1016/j.geoen.2023.211694](https://doi.org/10.1016/j.geoen.2023.211694)
