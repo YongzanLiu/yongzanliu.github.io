@@ -8,7 +8,8 @@ author_profile: true
 - Check [Google Scholar](https://scholar.google.com/citations?user=jYtKN4EAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yongzan_Liu) for a list of publications available online
 
 ## Preprint
-1. **Liu, Y.**, Liang, L. and Zeroug, S., 2023. Enhancing Understanding of Hydraulic Fracture Tip Advancement through Inversion of Low-Frequency Distributed Acoustic Sensing Data. *arXiv preprint arXiv:2305.13138*. [https://arxiv.org/abs/2305.13138](https://arxiv.org/abs/2305.13138) Note: improved version is accepted by [https://link.springer.com/article/10.1007/s00603-024-03853-2](Rock Mechanics and Rock Engineering)
+1. **Liu, Y.**, Liang, L. and Zeroug, S., 2023. Enhancing Understanding of Hydraulic Fracture Tip Advancement through Inversion of Low-Frequency Distributed Acoustic Sensing Data. *arXiv preprint arXiv:2305.13138*. [https://arxiv.org/abs/2305.13138](https://arxiv.org/abs/2305.13138) 
+Note: improved version is accepted by [Rock Mechanics and Rock Engineering](https://link.springer.com/article/10.1007/s00603-024-03853-2)
 
 
 ## Feature Article 
