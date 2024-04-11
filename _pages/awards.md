@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
  
+- American Rock Mechanics Association (ARMA) Future Leader, 2024
 - PETE Department Faculty Award of Excellence (Doctoral Level), Texas A&M University, 2022
 - SPE Technical Reviewer Award of Excellent Services, 2021
 - Winner of ARMA Graduate Research Competition, 2021

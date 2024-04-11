@@ -29,15 +29,12 @@ author_profile: true
   - [International Journal of Rock Mechanics and Mining Sciences](https://www.journals.elsevier.com/international-journal-of-rock-mechanics-and-mining-sciences)
   - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
   - [SPE Journal](https://www.onepetro.org/journals)
-  - [SPE Reservoir Evaluation & Engineering](https://www.onepetro.org/journals)
-  - [SPE Production & Operations](https://www.onepetro.org/journals)
-  - [SPE Drilling & Completion](https://www.onepetro.org/journals)
   - [Geomechanics and Geophysics for Geo-Energy and Geo-Resources](https://www.springer.com/journal/40948)
+  - [Geomechanics for Energy and the Environment](https://www.sciencedirect.com/journal/geomechanics-for-energy-and-the-environment)
   - [GEOPHYSICS](https://library.seg.org/journal/gpysa7)
   - [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
   - [Water Resources Research](https://agupubs.onlinelibrary.wiley.com/journal/19447973)
   - [Energy & Fuels](https://pubs.acs.org/journal/enfuem)
   - [Fuel](https://www.journals.elsevier.com/fuel)
-  - [Journal of Petroleum Science and Engineering](https://www.journals.elsevier.com/journal-of-petroleum-science-and-engineering)
 
   
