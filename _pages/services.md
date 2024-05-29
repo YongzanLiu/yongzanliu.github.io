@@ -7,7 +7,8 @@ author_profile: true
 
 - Major Editorships
 
-  - Associate Editor, *Geoenergy Science and Engineering* (renamed from Journal of Petroleum Science and Engineering), 2022-to date
+  - Associate Editor, *SPE Journal*, 2024-present
+  - Associate Editor, *Geoenergy Science and Engineering* (renamed from Journal of Petroleum Science and Engineering), 2022-present
   - Guest Editor, special issue - Distributed Fiber Optic Sensing, *Interpretation*, 2022
   - Guest Editor, special issue - Integrated Geosciences and Engineering in Unconventional Oil and Gas Resources: Novel Insights and Challenges, *Lithosphere*, 2022
 
