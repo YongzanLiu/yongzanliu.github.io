@@ -15,6 +15,7 @@ author_profile: true
 
 - Major Professional Activities
 
+  - Proposal Reviewer, Czech Science Foundation, 2024
   - Program Committee, 2024 SPE Annual Technical Conference and Exhibition (ATCE)
   - Program Committee, 2023 SPE Annual Technical Conference and Exhibition (ATCE)
   - Judge, 2022 SPE ATCE Student Paper Contest (PhD Division)
