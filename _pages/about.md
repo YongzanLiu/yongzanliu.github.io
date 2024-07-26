@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a research scientist at Schlumberger-Doll Research, Cambridge, MA
+- I am currently a senior research scientist at Schlumberger-Doll Research, Cambridge, MA
 - I was a postdoctoral scholar at Lawrence Berkeley National Laboratory from September 2021 to June 2022
 - I hold a Ph.D. degree in Petroleum Engineering from Texas A&M University
 - Before joining TAMU, I received my M.S. degree in Petroleum Engineering from the University of Alberta in 2017
