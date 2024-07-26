@@ -15,6 +15,7 @@ author_profile: true
 
 
 ## Conference Presentation 
+- 2024-03-13: Tracking CO2 Plume in Deep Aquifers through Distributed Temperature Responses along Vertical Monitoring Wells, SPE/SEG/AAPG CCUS Conferenc
 - 2023-08-29: Stage-Level Hydraulic Fracture Width and Height Quantification through Stochastic Inversion
 of Distributed Fiber-Optic Strain Sensing Data, SEG/AAPG Ihe International Meeting for Applied Geoscience and Energy.
 - 2021-02-06: [*Quantitative Hydraulic-Fracture Geometry Characterization with LF-DAS Strain Data: Numerical Analysis and Field Applications*](https://doi.org/10.2118/204158-MS), SPE Hydraulic Fracturing Technology Conference and Exhibition. 
