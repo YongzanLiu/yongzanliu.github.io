@@ -10,10 +10,8 @@ redirect_from:
 
 - I am currently a senior research scientist at Schlumberger-Doll Research, Cambridge, MA
 - I was a postdoctoral scholar at Lawrence Berkeley National Laboratory from September 2021 to June 2022
-- I hold a Ph.D. degree in Petroleum Engineering from Texas A&M University
-- Before joining TAMU, I received my M.S. degree in Petroleum Engineering from the University of Alberta in 2017
+- I hold a Ph.D. degree from Texas A&M University and an MS degree from University of Alberta, both in Petroleum Engineerings
 - My general research interests include computational geomechanics, fractured reservoir simulation, fiber-optic sensing and integrated geomechanics-geophysics-flow modeling
-- My recent [Curriculum Vitae](https://yongzanliu.github.io/files/Yongzan_CV.pdf)
 
 Recent News
 ======
