@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yongzan Liu"
 title_separator          : "-"
 name                     : &name "Yongzan Liu"
-description              : &description "Research Scientist, Schlumberger-Doll Research"
+description              : &description "Professor, China University of Petroleum (East China)"
 url                      : https://yongzanliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yongzanliu/yongzanliu.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yongzan Liu"
   avatar           : "Yongzan.jpg"
-  bio              : "Research Scientist, Schlumberger-Doll Research"
-  location         : "Cambridge, MA"
+  bio              : "Professor, China University of Petroleum (East China)"
+  location         : "Qingdao, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=jYtKN4EAAAAJ&hl=en"
-  email            : "yliu133@slb.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=RgbVT7cAAAAJ"
+  email            : "liuyongzanrock@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yongzan_Liu"
   uri              :
   bitbucket        :

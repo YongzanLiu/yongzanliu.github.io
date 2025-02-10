@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Check [Google Scholar](https://scholar.google.com/citations?user=jYtKN4EAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yongzan_Liu) for a list of publications available online
+- Check [Google Scholar](https://scholar.google.com/citations?hl=en&user=RgbVT7cAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Yongzan_Liu) for a list of publications available online
 
 ## Book
 1. Wu, K., **Liu, Y.**, Jin, G., Srinivasan, A. 2024. Hydraulic Fracture Geometry Characterization Based on Distributed Fiber Optic Strain Measurements: Modeling and Field Data for Unconventional and Geothermal Wells. Elsevier. [link](https://shop.elsevier.com/books/hydraulic-fracture-geometry-characterization-based-on-distributed-fiber-optic-strain-measurements/wu/978-0-323-95362-7)

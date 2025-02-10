@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a senior research scientist at Schlumberger-Doll Research, Cambridge, MA
+- I recently joined China University of Petroleum (East China) as a professor in petroleum engineering
+- I worked as a (senior) research scientist at Schlumberger-Doll Research between June 2022 and January 2025.
 - I was a postdoctoral scholar at Lawrence Berkeley National Laboratory from September 2021 to June 2022
 - I hold a Ph.D. degree from Texas A&M University and an MS degree from University of Alberta, both in Petroleum Engineering
 - My general research interests include computational geomechanics, fractured reservoir simulation, fiber-optic sensing and integrated geomechanics-geophysics-flow modeling
