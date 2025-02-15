@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Invited Talk/Workshop
-- 2024-07-26: Quantitative Interpretation of Low-Frequency Distributed Acoustic Sensing Data for End-to-End Hydraulic Fracture Monitoring, ARMA Future Leaders Webinar Series
+- 2024-07-26: [*Quantitative Interpretation of Low-Frequency Distributed Acoustic Sensing Data for End-to-End Hydraulic Fracture Monitoring*](https://www.youtube.com/watch?v=jy5rWlSfIrM), ARMA Future Leaders Webinar Series
 - 2023-06-25: Simulation-Based Evaluation of Fiber-Optic Sensing in Monitoring Water Circulation in Enhanced Geothermal Systems,  Workshop on Fiber-Optic Sensing at 57th ARMA Symposium
 - 2022-06-26: An Efficient Inversion Algorithm for Quantitative Hydraulic Fracture Characterization Using Low-Frequency Distributed Acoustic Sensing Strain Data, Workshop on Fiber-Optic Sensing at 56th ARMA Symposium
 - 2022-04-25: Quantitative Hydraulic Fracture Characterization Based on Cross-Well Low-Frequency Distributed Acoustic Sensing Data, Schlumberger-Doll Research
